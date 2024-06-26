@@ -1,6 +1,6 @@
 # Readme
 
-This extension will remotely configurable messages next to imports in your code. It is meant for usage within a organization or group where a central team can manage which imports should have additional info displayed.
+This extension will remotely configurable messages next to imports in your code. It is meant for usage within a organization or group where a central team can manage which imports should have additional info displayed. The extension is dependent on a json file that is hosted on a server.
 
 ## Extension Settings
 
