@@ -8,6 +8,7 @@
         "email": "kristoffer@forsgren.me",
         "url": "http://kristofferforsgren.com"
     },
+    "publisher": "forsgren",
     "repository": {
         "type": "git",
         "url": "https://github.com/forsgren/custom-import-information"
