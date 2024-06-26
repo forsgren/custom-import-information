@@ -26,6 +26,10 @@ You have to define which URL to fetch the json from. The extension will ask for 
 
 This will detect the import `import { something } from 'previously-used-package-name'` and display the message `We have switched to https://www.npmjs.com/package/packagename` next to it.
 
+## License
+
+Creative Commons Attribution ShareAlike 4.0 International (CC BY-SA 4.0)
+
 ## Known Issues
 
 None.
