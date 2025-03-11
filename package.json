@@ -2,7 +2,7 @@
     "name": "custom-import-information",
     "displayName": "Custom import information",
     "description": "Displays custom information next to imports, based on rules defined in a remote json.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": {
         "name": "Kristoffer Forsgren",
         "email": "kristoffer@forsgren.me",
@@ -54,7 +54,7 @@
     },
     "devDependencies": {
         "@types/vscode": "^1.90.0",
-        "@types/mocha": "^10.0.6",
+        "@types/mocha": "^10.0.10",
         "@types/node": "20.x",
         "@typescript-eslint/eslint-plugin": "^7.11.0",
         "@typescript-eslint/parser": "^7.11.0",

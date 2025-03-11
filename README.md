@@ -36,6 +36,10 @@ None.
 
 ## Release Notes
 
+### 1.0.1
+
+Security fix
+
 ### 1.0.0
 
 Initial release
